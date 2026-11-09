@@ -1,8 +1,8 @@
-# The Light of Catacombs — Android
+# The Light of Catacombs
 
 Roguelike de luz e cera: dezoito andares sob a cidade de Vesperal.
 
-## Baixar
+## Android
 
 **[⬇ Baixar TheLightOfCatacombs.apk](https://github.com/Davi3301/the-light-of-catacombs-android/raw/main/TheLightOfCatacombs.apk)** (390 KB)
 
